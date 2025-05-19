@@ -32,3 +32,8 @@ pip install pandas matplotlib seaborn streamlit
 ## command for run dashboard
 
 
+streamlit run work.py
+
+
+
+
