@@ -17,7 +17,7 @@ This interactive dashboard visualizes trends like top genres, countries, actors,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/netflix-dashboard.git
+git clone https://github.com/shivranjan0/data_analysis_netflix.git
 cd netflix-dashboard
 
 ## commands for set up
